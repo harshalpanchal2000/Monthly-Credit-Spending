@@ -1,6 +1,6 @@
 # Credit Card Spending Dashboard Project
 
-This project presents a comprehensive summary of credit card transactions for the year 2023 using a Tableau dashboard. It includes visualizations to analyze spending trends, categorize expenses, and identify top vendors.
+This project presents a comprehensive summary of credit card transactions for the year 2014 using a Tableau dashboard. It includes visualizations to analyze spending trends, categorize expenses, and identify top vendors.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -8,7 +8,9 @@ This project presents a comprehensive summary of credit card transactions for th
 - [Features](#features)
 - [Visualizations](#visualizations)
 - [Usage](#usage)
+- [Tableau Public Link](#tableau-public-link)
 - [Author](#author)
+- [License](#license)
 
 ## Overview
 The Credit Card Spending Dashboard provides an in-depth analysis of credit card expenditures over a year. It helps users understand their spending patterns, identify major spending categories, and recognize key vendors. The dashboard is designed to be interactive, offering date range filters and detailed views of monthly expenses.
@@ -45,6 +47,9 @@ To use this dashboard effectively:
 - *Date Range Filter*: Adjust the date range to focus on specific periods within the year.
 - *Hover for Details*: Hover over any data point for detailed information on monthly spend or specific transactions.
 
+## Tableau Public Link
+You can view the interactive dashboard on Tableau Public using the following link: [Credit Card Spending Dashboard](https://public.tableau.com/app/profile/harshal1110/viz/CanadasCreditDefaultPredictor/Dashboard1)
+
 ## Author
 This project was created by Harshal Panchal as a data analysis project.
 
@@ -53,8 +58,8 @@ For any questions or further information, please contact:
 - *LinkedIn*: [https://www.linkedin.com/in/harshal-panchal/]
 
 ## License
-This project is licensed under the MIT License - see the [MIT](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
 
-Feel free to explore the dashboard and gain insights into your credit card spending habits for better financial management.
+Feel free to explore the dashboard and gain insights into your credit card spending habits for better financial management.
