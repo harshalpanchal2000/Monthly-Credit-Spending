@@ -16,7 +16,7 @@ This project presents a comprehensive summary of credit card transactions for th
 The Credit Card Spending Dashboard provides an in-depth analysis of credit card expenditures over a year. It helps users understand their spending patterns, identify major spending categories, and recognize key vendors. The dashboard is designed to be interactive, offering date range filters and detailed views of monthly expenses.
 
 ## Tableau Public Link
-You can view the interactive dashboard on Tableau Public using the following link: [Credit Card Spending Dashboard](https://public.tableau.com/app/profile/harshal1110/viz/CanadasCreditDefaultPredictor/Dashboard1)
+You can view the interactive dashboard on Tableau Public using the following link: [Credit Card Spending Dashboard](https://public.tableau.com/app/profile/harshal1110/viz/MonthlyCreditCardSpender/CreditCardSpending)
 
 ## Data Source
 The data for this project comprises credit card transaction records from January 2, 2014, to December 30, 2014. The dataset includes the following information:
